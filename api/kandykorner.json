@@ -1,0 +1,70 @@
+{
+  "storesFromAPI": [
+    {
+      "id": 1,
+      "name": "Fructose Factory"
+    },
+    {
+      "id": 2,
+      "name": "Chojis Sweets"
+    },
+    {
+      "id": 3,
+      "name": "Willy Wonka Industries"
+    }
+  ],
+  "employeesFromAPI": [
+    {
+      "id": 1,
+      "name": "Son Goku"
+    },
+    {
+      "id": 2,
+      "name": "Sasuke Uchiha"
+    },
+    {
+      "id": 3,
+      "name": "Ash Ketchum"
+    }
+  ],
+  "candyTypesFromAPI": [
+    {
+      "id": 1,
+      "name": "Chocolate"
+    },
+    {
+      "id": 2,
+      "name": "Sour"
+    },
+    {
+      "id": 3,
+      "name": "Chewy"
+    },
+    {
+      "id": 4,
+      "name": "Hard"
+    }
+  ],
+  "candiesFromAPI": [
+    {
+      "id": 1,
+      "name": "Snickers",
+      "typeId": 1
+    },
+    {
+      "id": 2,
+      "name": "Sour Worms",
+      "typeId": 2
+    },
+    {
+      "id": 3,
+      "name": "Bubble Gum",
+      "typeId": 3
+    },
+    {
+      "id": 4,
+      "name": "Jolly Rancher",
+      "typeId": 4
+    }
+  ]
+}
